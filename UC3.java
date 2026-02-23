@@ -8,6 +8,6 @@ public class UC3{
 		System.out.println(String.join(" " , "**     **" , " " , "**     **" , " " , "**       " , " " , "      ** "));
 		System.out.println(String.join(" " , "**     **" , " " , "**     **" , " " , "**       " , " " , "       **"));
 		System.out.println(String.join(" " , " **   ** " , " " , " **   ** " , " " , "**       " , " " , "      ** "));
-		System.out.println(String.join(" " , "   ***   " , " " , "   ***   " , " " , "**       " , " " , " *****   "))	;
+		System.out.println(String.join(" " , "   ***   " , " " , "   ***   " , " " , "**       " , " " , " *****   "));
 	}
 }
